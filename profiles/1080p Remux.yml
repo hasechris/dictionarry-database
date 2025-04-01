@@ -28,6 +28,8 @@ custom_formats:
   score: 60
 - name: DTS-HD MA
   score: 50
+- name: Require EN & DE
+  score: 50
 - name: TrueHD
   score: 50
 - name: TrueHD (Missing)
